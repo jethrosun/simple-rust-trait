@@ -4,7 +4,6 @@ fn main() {
     // place holder for didChange test.
 }
 
-
 fn greet() -> i32 {
     42
 }
